@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.section{
+
+.container{
+    width:90%;
+    margin: auto;
+
+    .row{
+        display: flex;
+        flex-wrap: wrap;
+        
+    .col{
+        width:25%;
+        padding:10px;
+     
+    .card{
+        text-align: center;
+        // padding:10px;
+        box-shadow:0 0 5px rgb(194, 188, 188);
+        line-height:1.5;
+        padding:10px;
+    .imgDiv{
+
+        img{
+            width:100%;
+            height:250px;
+        }
+    }
+
+    }    
+    }    
+
+    }
+
+}    
+}
